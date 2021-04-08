@@ -1,0 +1,12 @@
+name: bdvis_mammalia
+title: bdvis_mammalia
+username:
+account: hindubale
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3931328
+bundleId: 4447807
+url: https://hindubale.shinyapps.io/bdvis_mammalia/
+when: 1617909302.45623
+asMultiple: FALSE
+asStatic: FALSE
